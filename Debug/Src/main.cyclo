@@ -1,0 +1,11 @@
+main.c:61:5:main	1
+main.c:96:18:signal_max	3
+main.c:110:18:signal_mean	2
+main.c:124:18:signal_min	3
+main.c:138:18:signal_power	2
+main.c:150:18:signal_rms	1
+main.c:159:18:signal_std	1
+main.c:167:18:signal_variance	2
+main.c:181:13:plot_signal	2
+main.c:190:13:delay	2
+main.c:195:13:fpu_enable	1
